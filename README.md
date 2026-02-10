@@ -16,7 +16,6 @@ Currently, I’m exploring deep learning and applied AI, including projects rela
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-5B2D8B?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
-![AutoGPT](https://img.shields.io/badge/AutoGPT-000000?style=for-the-badge)
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
