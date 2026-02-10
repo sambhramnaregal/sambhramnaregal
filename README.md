@@ -19,11 +19,11 @@ Currently, I’m exploring deep learning and applied AI, including projects rela
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 Machine Learning
+### 🤖Aritificial Intelligence and Machine Learning
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-5A67D8?style=for-the-badge)
