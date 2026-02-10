@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there,👋
+I am Sambhram S Naregal a Computer Science Engineering (Data Science) student with a strong interest in AI and Machine Learning. I enjoy building systems where data, models, and software come together to solve practical problems — from intelligent web applications to applied ML and deep learning projects.
+
+My work mostly revolves around machine learning pipelines, data analysis, and model-driven applications. I have hands-on experience building Streamlit apps, training and evaluating ML/DL models, working with APIs and real-world datasets, and deploying prototypes that are both functional and interpretable. I place a strong emphasis on understanding the data and the model behavior, not just achieving accuracy.
+
+Currently, I’m exploring deep learning and applied AI, including projects related to computer vision, healthcare AI (fetal anomaly detection), and AI-powered decision systems. I’m also interested in LLM-based applications, such as retrieval-augmented systems, and how AI can be responsibly used in real-world domains.
+
+🚀 I’m open to opportunities in AI/ML, Data Science, and Applied AI roles (internships, research roles, and entry-level positions), where I can learn from experienced teams, contribute meaningfully, and grow as an engineer.
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **sambhramnaregal/sambhramnaregal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
