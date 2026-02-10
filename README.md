@@ -47,13 +47,13 @@ Currently, I’m exploring deep learning and applied AI, including projects rela
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00B3A4?style=for-the-badge&logo=weaviate&logoColor=white)
 
 
 ### Vector databases
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-1C1C1C?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B3A4?style=for-the-badge&logo=weaviate&logoColor=white)
 
 
 ### ☁ Deployment & Cloud
