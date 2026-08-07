@@ -75,9 +75,30 @@ Currently, I’m exploring deep learning and applied AI, including projects rela
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sambhramnaregal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sambhramnaregal&theme=github_dark)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sambhramnaregal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=sambhramnaregal&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sambhramnaregal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sambhramnaregal&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sambhramnaregal&theme=github-dark&hide_border=true&area=true"/>
+</p>
 
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sambhramnaregal&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sambhramnaregal&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 <!--
 **sambhramnaregal/sambhramnaregal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
