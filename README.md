@@ -75,7 +75,7 @@ Currently, I’m exploring deep learning and applied AI, including projects rela
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sambhramnaregal&show_icons=true&theme=radical)
 
 
 <!--
