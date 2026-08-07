@@ -78,7 +78,8 @@ Currently, I’m exploring deep learning and applied AI, including projects rela
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sambhramnaregal&theme=github_dark)
 
 <p align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambhramnaregal&layout=donut&theme=github_dark&langs_count=20&hide_border=true"/>
+  <img height="200em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambhramnaregal&layout=donut&theme=github_dark&langs_count=20&hide_border=true"/>
 </p>
 
 <p align="center">
