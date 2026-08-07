@@ -84,10 +84,6 @@ Currently, I’m exploring deep learning and applied AI, including projects rela
 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sambhramnaregal&theme=github_dark"/>
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=sambhramnaregal&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 <!--
