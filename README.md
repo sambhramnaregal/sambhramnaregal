@@ -1,5 +1,5 @@
 ## Hi there,👋 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=2EA043&center=true&vCenter=true&repeat=true&width=800&lines=I+am+Sambhram+S+Naregal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=999999&color=2EA043&center=true&vCenter=true&repeat=false&width=800&lines=I+am+Sambhram+S+Naregal" />
 </p>
 
 I am Sambhram S Naregal a Computer Science Engineering (Data Science) student with a strong interest in AI and Machine Learning. I enjoy building systems where data, models, and software come together to solve practical problems — from intelligent web applications to applied ML and deep learning projects.
